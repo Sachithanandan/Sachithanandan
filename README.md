@@ -31,7 +31,7 @@
 
 ## 🌐 Connect With Me
 - 📫 Email: *sachin308204@gmail.com*  
-- 💼 LinkedIn: [Sachithanandan]([https://www.linkedin.com/in/sachithanandan-sundaram-6648b51b8/])  
+- 💼 LinkedIn: [Sachithanandan](https://www.linkedin.com/in/sachithanandan-sundaram-6648b51b8/)  
 
 
 ---
