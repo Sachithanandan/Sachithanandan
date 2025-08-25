@@ -23,8 +23,8 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python, JavaScript, SQL, HTML, CSS  
-**Frameworks & Libraries:** TensorFlow, PyTorch, Hugging Face Transformers, OpenCV, FastAPI  
-**Tools & Platforms:** Git, AWS, Docker, Replit, VS Code  
+**Frameworks & Libraries:** TensorFlow, PyTorch, Hugging Face Transformers, OpenCV  
+**Tools & Platforms:** Git,Replit, VS Code  
 
 ---
 
