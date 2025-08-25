@@ -28,16 +28,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![Sachithanandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachithanandan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachithanandan&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
-- 📫 Email: *[add your email here]*  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- 📝 Portfolio/Website: *[add link if you have one]*  
+- 📫 Email: *sachin308204@gmail.com*  
+- 💼 LinkedIn: [Sachithanandan]([https://www.linkedin.com/in/sachithanandan-sundaram-6648b51b8/])  
+
 
 ---
 ⭐️ *Always curious. Always building. Always learning.*
